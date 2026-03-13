@@ -1,6 +1,6 @@
 # SPAIR
 SPAIR: Spatial Multi-omics Integration and Alignment via Pairwise Contrastive Learning
-![image](https://github.com/2458167421/SPAIR/main/overviewmosi.jpg)
+![image](diagrammatic figure.png)
 ## Software dependencies
 scanpy==1.9.3  
 squidpy==1.3.0  
