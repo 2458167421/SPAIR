@@ -15,7 +15,7 @@ mclust==5.4.10
 ## Set up
 First clone the repository. 
 ```
-git clone https://github.com/Zhenpm/SpatialMOSI.git 
+git clone  https://github.com/2458167421/SPAIR.git
 cd SPAIR-main
 ```
 Then, we suggest creating a new environment： <br />
