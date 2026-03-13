@@ -1,6 +1,6 @@
 # SPAIR
 SPAIR: Spatial Multi-omics Integration and Alignment via Pairwise Contrastive Learning
-![image](https://github.com/2458167421/SPAIR/edit/main/overview.png)
+![image](./overview.png)
 ## Overview
 SPAIR is a computational framework designed for multi-batch spatial multi-omics integration, enabling unified spatial domain identification, 3D tissue reconstruction, and cross-omics inference. As illustrated in Figure~\ref{fig:overview}A, the pipeline begins by processing preprocessed molecular data and spatial graphs through the SOI Module to extract modality-specific embeddings. These embeddings are fused via the WNN module to produce an integrated multi-omics representation for downstream tasks, including spatial domain identification and cross-slice alignment (Figure~\ref{fig:overview}B).
 
