@@ -18,10 +18,14 @@ mclust==5.4.10
 First clone the repository.
 ```python
 git clone https://github.com/Zhenpm/SpatialMOSI.git
-``` 
 cd SpatialMOSI-main
+``` 
 Then, we suggest creating a new environment：
+```python
 conda create -n spatialmosi python=3.10 
 conda activate spatialmosi
+```
 Additionally, install the packages required:
+```python
 pip install -r requiements.txt
+```
