@@ -15,17 +15,18 @@ torch_geometric==2.3.1(cuda==11.6)
 R==3.5.1  
 mclust==5.4.10
 ## Set up
-First clone the repository.
-```python
-git clone https://github.com/Zhenpm/SpatialMOSI.git
+First clone the repository. 
+```
+git clone https://github.com/Zhenpm/SpatialMOSI.git 
 cd SpatialMOSI-main
-``` 
-Then, we suggest creating a new environment：
-```python
+```
+Then, we suggest creating a new environment： <br />
+```
 conda create -n spatialmosi python=3.10 
 conda activate spatialmosi
 ```
-Additionally, install the packages required:
-```python
-pip install -r requiements.txt
+Additionally, install the packages required: <br />
 ```
+pip install -r requiements.txt
+``` 
+
