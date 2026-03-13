@@ -1,0 +1,10 @@
+scanpy
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+seaborn
+squidpy
+igraph
+# rpy2  OPTIONAL (If you need to use mclust clustering, you have to install rpy2) 
