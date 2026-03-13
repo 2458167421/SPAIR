@@ -18,15 +18,29 @@ mclust==5.4.10
 First clone the repository. 
 ```
 git clone https://github.com/Zhenpm/SpatialMOSI.git 
-cd SpatialMOSI-main
+cd SPAIR-main
 ```
 Then, we suggest creating a new environment： <br />
 ```
-conda create -n spatialmosi python=3.10 
-conda activate spatialmosi
+conda create -n SPAIR python=3.9
+conda activate SPAIR
 ```
 Additionally, install the packages required: <br />
 ```
 pip install -r requiements.txt
 ``` 
+## Datasets
 
+We employed five distinct spatial omics datasets to evaluate model performance:
+
+### 1. Simulated Data
+
+### 2. MISAR-seq mouse embryonic development Data
+
+### 3. Mouse Brain Spatial ATAC-RNA-seq Data
+
+### 4. DLPFC Data
+
+### 5. SPOTS mouse spleen RNA-protein Data
+
+Five datasets can be downloaded from https://pan.baidu.com/
