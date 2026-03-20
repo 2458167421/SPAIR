@@ -41,4 +41,4 @@ We employed five distinct spatial omics datasets to evaluate model performance:
 
 ### 5. SPOTS mouse spleen RNA-protein Data
 
-Five datasets can be downloaded from https://pan.baidu.com/
+Five datasets can be downloaded from https://pan.baidu.com/s/1Tyx32teEF98o96OeqbpBHQ?pwd=w5e1
